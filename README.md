@@ -1,4 +1,4 @@
-# love_search_template_bank
+# love_search_bank
 
 Jupyter notebooks illustrating the construction of the template bank used in [arxiv:2306.00050](https://arxiv.org/pdf/2306.00050.pdf): "In Pursuit of Love: First Templated Search for Compact Objects with Large Tidal Deformabilities in the LIGO-Virgo Data". 
 
