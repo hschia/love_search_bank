@@ -5,3 +5,5 @@ Jupyter notebooks illustrating the construction of the template bank used in [ar
 The construction of this template bank is the first part of the matched-filtering data pipeline that aimed to search for new gravitational wave signals emitted by compact objects with large "Love numbers" in the public O1, O2, O3a and O3b LIGO-Virgo data. 
 
 Some machine learning tools involved include Random Forest regression, KMeans and PCA.
+
+![template bank parameters](https://github.com/hschia/love_search_bank/blob/main/bank_params.png)
